@@ -1,6 +1,10 @@
-# The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
+# Disclaimer
 
-These are the dotfiles deployed by [LARBS](https://larbs.xyz) and as seen on [my YouTube channel](https://youtube.com/c/lukesmithxyz).
+This is basically voidrice from Luke Smith (https://github.com/LukeSmithxyz/voidrice).
+
+# Dotfiles for FARBS
+
+These are the dotfiles deployed by FARBS
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
@@ -34,12 +38,3 @@ Check out their links:
 - [st](https://github.com/lukesmithxyz/st) (the terminal emulator assumed to be used by these dotfiles)
 - [mutt-wizard (`mw`)](https://github.com/lukesmithxyz/mutt-wizard) - (a terminal-based email system that can store your mail offline without effort)
 
-## Install these dotfiles
-
-Use [LARBS](https://larbs.xyz) to autoinstall everything:
-
-```
-curl -LO larbs.xyz/larbs.sh
-```
-
-or clone the repo files directly to your home directory and install [the prerequisite programs](https://github.com/LukeSmithxyz/LARBS/blob/master/progs.csv).
